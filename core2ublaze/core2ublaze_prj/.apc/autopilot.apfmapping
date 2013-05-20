@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="talk2ub.cpp" path="/home/marcof/Desktop/clasificador_mas_mas/definitivo/core2ublaze/src/talk2ub.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="simple_talk2ub_tb.cpp" path="/home/marcof/Desktop/clasificador_mas_mas/definitivo/core2ublaze/src/simple_talk2ub_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

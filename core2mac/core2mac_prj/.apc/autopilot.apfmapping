@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="parser.cpp" path="/home/marcof/Desktop/clasificador_mas_mas/definitivo/core2mac/src/parser.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="2flujos" path="/home/marcof/Desktop/clasificador_mas_mas/definitivo/core2mac/src/2flujos"/>
+    <originFiles name="50_pkts" path="/home/marcof/Desktop/clasificador_mas_mas/definitivo/core2mac/src/50_pkts"/>
+    <originFiles name="simpleParser_test.cpp" path="/home/marcof/Desktop/clasificador_mas_mas/definitivo/core2mac/src/simpleParser_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
